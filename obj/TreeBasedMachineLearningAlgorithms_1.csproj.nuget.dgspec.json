@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\benzi\\Repos\\TreeBasedMachineLearningAlgorithms_1\\TreeBasedMachineLearningAlgorithms_1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\benzi\\Repos\\TreeBasedMachineLearningAlgorithms_1\\TreeBasedMachineLearningAlgorithms_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\benzi\\Repos\\TreeBasedMachineLearningAlgorithms_1\\TreeBasedMachineLearningAlgorithms_1.csproj",
+        "projectName": "TreeBasedMachineLearningAlgorithms_1",
+        "projectPath": "C:\\Users\\benzi\\Repos\\TreeBasedMachineLearningAlgorithms_1\\TreeBasedMachineLearningAlgorithms_1.csproj",
+        "packagesPath": "C:\\Users\\benzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\benzi\\Repos\\TreeBasedMachineLearningAlgorithms_1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\benzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://172.18.1.40:54244/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
